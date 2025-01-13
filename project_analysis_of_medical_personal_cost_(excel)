@@ -1,9 +1,0 @@
-<script>start("/Users/bartlomiejpodstawek/PycharmProjects/analiza_danych_projekt/Python_Data_Analytics_Course-main/project_analysis_of_medical_personal_cost_(excel)/");</script>
-<script>onHasParentDirectory();</script>
-<script>addRow("Analysis_of_medical_personal_cost.ipynb","Analysis_of_medical_personal_cost.ipynb",0,388042,"379 kB",1736543304,"10/01/2025, 22:08:24");</script>
-<script>addRow("dashboard.xlsx","dashboard.xlsx",0,420680,"411 kB",1736544148,"10/01/2025, 22:22:28");</script>
-<script>addRow("insurance(original_data).csv","insurance(original_data).csv",0,55628,"54.3 kB",1736544148,"10/01/2025, 22:22:28");</script>
-<script>addRow("insurance(text_to_columns).xlsx","insurance(text_to_columns).xlsx",0,52735,"51.5 kB",1736544148,"10/01/2025, 22:22:28");</script>
-<script>addRow("prepare_and_cleanup.xlsx","prepare_and_cleanup.xlsx",0,167210,"163 kB",1736544148,"10/01/2025, 22:22:28");</script>
-<script>addRow("statistic_descriptives.xlsx","statistic_descriptives.xlsx",0,296043,"289 kB",1736544148,"10/01/2025, 22:22:28");</script>
-<script>addRow("table_with_helper_columns.xlsx","table_with_helper_columns.xlsx",0,102446,"100 kB",1736544148,"10/01/2025, 22:22:28");</script>
