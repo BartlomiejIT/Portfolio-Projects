@@ -7,7 +7,7 @@ Over time, I realized that the world around us constantly generates data, and wo
 
 ### Medical Personal Cost
 
-![image](https://github.com/user-attachments/assets/10d17847-8986-4dfa-83de-3dd8b956dc4f)
+![image](https://github.com/user-attachments/assets/f94c576c-722a-431e-a847-bb83b71c5e8f)
 
 The project was inspired by my interest in understanding the financial drivers behind personal healthcare costs. Using Excel, I cleaned and analyzed a dataset to explore how variables such as age, BMI, and smoking habits affect medical expenses. Visualizations helped highlight patterns and relationships between these factors and overall costs.
 Working on this project helped me improve myself in using Microsoft Excel's tools.
