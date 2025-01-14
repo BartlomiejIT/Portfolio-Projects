@@ -12,7 +12,7 @@ Over time, I realized that the world around us constantly generates data, and wo
 [![image](https://github.com/user-attachments/assets/f94c576c-722a-431e-a847-bb83b71c5e8f)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20of%20Medical%20Personal%20Cost%20(Excel)) 
 
 The project was inspired by my interest in understanding the financial drivers behind personal healthcare costs. By using Excel, I prepared and analyzed a dataset to explore how variables such as age, BMI, and smoking habits affect medical expenses. Visualizations helped highlight patterns between these factors and overall costs.
-Working on this project helped me improve myself in using Microsoft Excel's tools.
+Working on this project helped me improve my skills in using Microsoft Excel's tools.
 
 ### [Analysis of Top Influencers Campaign (Excel-SQL-Power BI)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20Top%20Influencers%20Campaign%20(Excel%20-%20SQL%20-%20Power%20BI))
 
