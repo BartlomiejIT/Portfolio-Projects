@@ -3,7 +3,7 @@
 Hi, my name is Bartłomiej.
 
 I am a Junior Data Analyst and I love learn about how to things work also love physical exercises like running right after intellectual exercise. For the past few years I worked as a chef where I learned how important is attention to details, analyzing situations and making quick informed decisions.
-Over time, I realized that the world around us constantly generates data, and working with it has the power to shape the reality we live in. This inspired me to change my career path and start my journey into data analytics ;).
+Over time I realized that the world around us constantly generates data, and working with it has the power to shape the reality we live in. This inspired me to change my career path and start my journey into data analytics ;).
 
 ## My Latest Projects:
 
@@ -25,5 +25,5 @@ Through this project, I expanded my knowledge of how influencer marketing works 
 
 [![image](https://github.com/user-attachments/assets/280cafb7-b7d0-4de2-8699-450cd0480648)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/World%20Happiness%20Report%202024%20(Python))
 
-This analysis was motivated by my desire to understand the factors contributing to global happiness. With Python, I analyzed data from the World Happiness Report, focusing on indicators like GDP, social support, and life expectancy. 
-Working on this project helped me better understand how social and economic factors shape our well being. It also introduced me to the side of geographic and socioeconomic data, providing a wider perspective on global differences and opportunities for improving happiness.
+This analysis was motivated by my desire to understand the factors contributing to global happiness. With Python, I analyzed data from the World Happiness Report, focusing on some indicators like GDP per capita, social support or life expectancy. 
+Working on this project helped me better understand how social and economic factors influence our well being. It also introduced me to the side of geographic and socioeconomic data, providing a wider perspective on global differences and opportunities for improving happiness.
