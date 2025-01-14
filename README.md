@@ -2,7 +2,7 @@
 
 Hi, my name is Bartłomiej.
 
-I am a Junior Data Analyst with a passion for turning real-world data into actionable insights. For the past few years, I worked as a chef, where I learned the importance of attention to details, analyzing situations, and making quick informed decisions.
+I am a Junior Data Analyst and I love learn about how to things work also love physical exercises like running right after intellectual exercise. For the past few years, I worked as a chef, where I learned how important is attention to details, analyzing situations and making quick informed decisions.
 Over time, I realized that the world around us constantly generates data, and working with it has the power to shape the reality we live in. This inspired me to change my career path and start my journey into data analytics ;).
 
 ## My Latest Projects:
@@ -11,7 +11,7 @@ Over time, I realized that the world around us constantly generates data, and wo
 
 [![image](https://github.com/user-attachments/assets/f94c576c-722a-431e-a847-bb83b71c5e8f)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20of%20Medical%20Personal%20Cost%20(Excel)) 
 
-The project was inspired by my interest in understanding the financial drivers behind personal healthcare costs. Using Excel, I cleaned and analyzed a dataset to explore how variables such as age, BMI, and smoking habits affect medical expenses. Visualizations helped highlight patterns between these factors and overall costs.
+The project was inspired by my interest in understanding the financial drivers behind personal healthcare costs. By using Excel, I prepared and analyzed a dataset to explore how variables such as age, BMI, and smoking habits affect medical expenses. Visualizations helped highlight patterns between these factors and overall costs.
 Working on this project helped me improve myself in using Microsoft Excel's tools.
 
 ### [Analysis of Top Influencers Campaign (Excel-SQL-Power BI)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20Top%20Influencers%20Campaign%20(Excel%20-%20SQL%20-%20Power%20BI))
@@ -25,5 +25,5 @@ Through this project, I expanded my knowledge of how influencer marketing works 
 
 [![image](https://github.com/user-attachments/assets/280cafb7-b7d0-4de2-8699-450cd0480648)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/World%20Happiness%20Report%202024%20(Python))
 
-This analysis was motivated by my desire to understand the factors contributing to global happiness. Using Python, I analyzed data from the World Happiness Report, focusing on indicators like GDP, social support, and life expectancy. 
-Working on this project helped me better understand how social and economic factors shape well-being. It also introduced me to the complexities of geographic and socioeconomic data, providing a broader perspective on global differences and opportunities for improving happiness.
+This analysis was motivated by my desire to understand the factors contributing to global happiness. With Python, I analyzed data from the World Happiness Report, focusing on indicators like GDP, social support, and life expectancy. 
+Working on this project helped me better understand how social and economic factors shape our well being. It also introduced me to the side of geographic and socioeconomic data, providing a wider perspective on global differences and opportunities for improving happiness.
