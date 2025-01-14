@@ -5,6 +5,8 @@ Hi, my name is Bartłomiej.
 I am a Junior Data Analyst with a passion for turning real-world data into actionable insights. For the past few years, I worked as a chef, where I learned the importance of attention to details, analyzing situations, and making quick informed decisions.
 Over time, I realized that the world around us constantly generates data, and working with it has the power to shape the reality we live in. This inspired me to change my career path and start my journey into data analytics ;).
 
+## My Latest Projects:
+
 ### [Medical Personal Cost (Excel)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20of%20Medical%20Personal%20Cost%20(Excel))
 
 [![image](https://github.com/user-attachments/assets/f94c576c-722a-431e-a847-bb83b71c5e8f)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20of%20Medical%20Personal%20Cost%20(Excel)) 
