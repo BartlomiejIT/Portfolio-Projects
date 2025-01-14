@@ -7,17 +7,21 @@ Over time, I realized that the world around us constantly generates data, and wo
 
 ### Medical Personal Cost
 
+![image](https://github.com/user-attachments/assets/10d17847-8986-4dfa-83de-3dd8b956dc4f)
+
 The project was inspired by my interest in understanding the financial drivers behind personal healthcare costs. Using Excel, I cleaned and analyzed a dataset to explore how variables such as age, BMI, and smoking habits affect medical expenses. Visualizations helped highlight patterns and relationships between these factors and overall costs.
 Working on this project helped me improve myself in using Microsoft Excel's tools.
 
-![image](https://github.com/user-attachments/assets/1863e012-a770-4f00-95ec-e423349cc780)
-
 ### Analysis of Top Influencers Campaign
+
+![image](https://github.com/user-attachments/assets/7bda1393-069c-4411-a410-fe771a265392)
 
 This project was created cause of my curiosity about influencer marketing to increase ROI. I combined Excel data preparation, SQL processing and analysis and Power BI dashboards to evaluate an influencer campaign including influencers like Zendaya or Kendall Jenner. By analyzing audience engagement and profitability, I identified the most impactful strategies and made actionable recommendations for future campaigns.
 Through this project, I expanded my knowledge of how influencer marketing works and what makes campaigns successful. It gave me valuable insights into the interplay between audience behavior, engagement metrics, and financial outcomes, which are crucial for decision-making in modern marketing.
 
 ### Analysis of the World Happiness Report
+
+![image](https://github.com/user-attachments/assets/280cafb7-b7d0-4de2-8699-450cd0480648)
 
 This analysis was motivated by my desire to understand the factors contributing to global happiness. Using Python, I analyzed data from the World Happiness Report, focusing on indicators like GDP, social support, and life expectancy. 
 Working on this project helped me better understand how social and economic factors shape well-being. It also introduced me to the complexities of geographic and socioeconomic data, providing a broader perspective on global differences and opportunities for improving happiness.
