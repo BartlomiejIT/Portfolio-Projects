@@ -1,3 +1,3 @@
 ## Readme Section
 
-Welcome! Please check "analysis_spotify_dataset" file with my whole project.
+Welcome! Please check "analytical_practice_and_optimization_queries_project" file with my whole project.
