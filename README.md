@@ -1,9 +1,19 @@
 ## Portfolio
 
-Hi, my name is Bartłomiej.
+#### Hi, my name is Bartłomiej.
 
-I am a Junior Data Analyst and I love learn about how to things work also love physical exercises like running right after intellectual exercise. For the past few years I worked as a chef where I learned how important is attention to details, analyzing situations and making quick informed decisions.
+I am a Junior Data Analyst and I love learn about how to things work also love physical exercises like running 🏃‍♂️ right after intellectual exercise 📚. For the past few years I worked as a chef where I learned how important is attention to details, analyzing situations and making quick informed decisions.
 Over time I realized that the world around us constantly generates data, and working with it has the power to shape the reality we live in. This inspired me to change my career path and start my journey into data analytics ;).
+
+
+#### My skillset includes a diverse range of tools and technologies, such as:
+
+- 🐍 **Python** for data analysis and automation
+- 🗄️ **SQL** for querying, processing data
+- 📊 **Excel** for preparation, cleanup, manipulation and visualization
+- 📈 **Power BI** for creating interactive and insightful dashboards
+
+I leverage these tools to uncover patterns, extract meaningful insights, and drive data-driven decision-making.
 
 ## My Latest Projects:
 
