@@ -21,7 +21,7 @@ Also working on this project helped me improve my skills with using Microsoft Ex
 This project was created cause of my curiosity about influencer marketing to increase ROI. I combined Excel data preparation, SQL processing, analysis and Power BI dashboards to evaluate an influencer campaign including influencers like Zendaya or Kendall Jenner. By analyzing audience engagement and profitability, I identified the most impactful strategies and made actionable recommendations for future campaigns.
 Through this project I extended my knowledge of how influencer marketing works and what makes campaigns successful. It gave me value insights into the interplay between audience behavior, engagement metrics, and financial outcomes, which are crucial for decision-making in modern marketing.
 
-### [Analysis of the World Happiness Report (Python)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/World%20Happiness%20Report%202024%20(Python))
+### [Analysis of the World Happiness Report 2024 (Python)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/World%20Happiness%20Report%202024%20(Python))
 
 [![image](https://github.com/user-attachments/assets/7310e5b4-56ea-44df-8223-b7cfa6e0857c)
 ](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/World%20Happiness%20Report%202024%20(Python))
