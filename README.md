@@ -23,7 +23,9 @@ Through this project I extended my knowledge of how influencer marketing works a
 
 ### [Analysis of the World Happiness Report (Python)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/World%20Happiness%20Report%202024%20(Python))
 
-[![image](https://github.com/user-attachments/assets/280cafb7-b7d0-4de2-8699-450cd0480648)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/World%20Happiness%20Report%202024%20(Python))
+[![image](https://github.com/user-attachments/assets/7310e5b4-56ea-44df-8223-b7cfa6e0857c)
+](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/World%20Happiness%20Report%202024%20(Python))
+
 
 This analysis was motivated by my desire to understand the factors contributing to global happiness. With Python, I analyzed data from the World Happiness 2024 Report, focusing on some factors like GDP per capita, social support or life expectancy. 
 Working on this project helped me better understand how social and economic factors influence our well being. It also introduced me to the side of geographic and socioeconomic data, providing a wider perspective on global differences and opportunities for improving happiness.
