@@ -3,7 +3,7 @@
 #### Hi, my name is Bartłomiej.
 
 I am a forthcoming Junior Data Analyst and I love learn about how to things work also love physical exercises like running 🏃‍♂️ right after intellectual exercise 📚. For the past few years I worked as a chef where I learned how important is attention to details, analyzing situations and making quick informed decisions.
-Over time I realized that the world around us constantly generates data, and working with it has the power to shape the reality we live in. This inspired me to change my career path and start my journey into data analytics ;).
+Over time I realized that the world around us constantly generates data, and working with it has the power to shape the reality we live in. This inspired me to change my career path and start my journey into data analytics 😉.
 
 
 #### My skillset includes a diverse range of tools and technologies, such as:
@@ -19,8 +19,7 @@ I leverage these tools to uncover patterns, extract meaningful insights, and dri
 
 ### [Medical Personal Cost (Excel)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20of%20Medical%20Personal%20Cost%20(Excel))
 
-[![image](https://github.com/user-attachments/assets/24cb8aa4-a4ae-4168-a345-438f37ce4421)
-](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20of%20Medical%20Personal%20Cost%20(Excel)) 
+[![image](https://github.com/user-attachments/assets/aa4512fd-728e-4b85-8971-b516368d331f)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20of%20Medical%20Personal%20Cost%20(Excel)) 
 
 - As a person who cares about health, I decided to check what is behind and influences the costs associated with using healthcare. Is there a specific age range in which the price increase is drastically high and what could be the reason for this? What solutions related to insurance prices could motivate customers to change their habits and take advantage of more favorable offers for them. To analyze this topic, I have prepared a Dashboard that can help understand the relationships between BMI Groups, Age, Smoking Status, Number of Children and Costs for Medical Services.
 
