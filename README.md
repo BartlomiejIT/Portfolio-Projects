@@ -22,7 +22,7 @@ I leverage these tools to uncover patterns, extract meaningful insights, and dri
 [![image](https://github.com/user-attachments/assets/24cb8aa4-a4ae-4168-a345-438f37ce4421)
 ](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20of%20Medical%20Personal%20Cost%20(Excel)) 
 
-As a person who cares about my health, I decided to check what is behind and influences the costs associated with using healthcare. Is there a specific age range in which the price increase is drastically high and what could be the reason for this? What solutions related to insurance prices could motivate customers to change their habits and take advantage of more favorable offers for them. To analyze this topic, I have prepared a Dashboard that can help understand the relationships between BMI Groups, Age, Smoking Status or Number of Children and Costs for Medical Services.
+As a person who cares about health, I decided to check what is behind and influences the costs associated with using healthcare. Is there a specific age range in which the price increase is drastically high and what could be the reason for this? What solutions related to insurance prices could motivate customers to change their habits and take advantage of more favorable offers for them. To analyze this topic, I have prepared a Dashboard that can help understand the relationships between BMI Groups, Age, Smoking Status or Number of Children and Costs for Medical Services.
 
 ### [Analysis of Top Influencers Campaign (Excel-SQL-Power BI)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20Top%20Influencers%20Campaign%20(Excel%20-%20SQL%20-%20Power%20BI))
 
