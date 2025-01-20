@@ -41,6 +41,9 @@ I leverage these tools to uncover patterns, extract meaningful insights, and dri
 
 [![image](https://github.com/user-attachments/assets/c888044a-d7be-4305-be83-ea7104e5742f)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analytical%20Practice%20and%20Optimization%20Queries%20Spotify%20Dataset%20(SQL))
 
+![image](https://github.com/user-attachments/assets/6a042d7b-199a-450c-a8fa-0b84ce5582da)
+
+
 - This time I focused on technical practice in data exploration, query creation, and performance optimization using SQL. It allowed me to develop advanced query-writing skills while progressing through from basic to advanced levels of complexity. The data derived from the queries were designed to be further use for visualization with tools like Power BI or Tableau.
 
 
