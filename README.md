@@ -27,7 +27,7 @@ I leverage these tools to uncover patterns, extract meaningful insights, and dri
 
 [![image](https://github.com/user-attachments/assets/7bda1393-069c-4411-a410-fe771a265392)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20Top%20Influencers%20Campaign%20(Excel%20-%20SQL%20-%20Power%20BI))
 
-- I chose this topic because I was interested in how cooperation with influencers looks like in terms of advertising campaigns. What the process of selecting specific solutions looks like in terms of return on investment. Cooperating with influencers who have less followers can be more profitable than working with more recognizable individuals. What could I propose the most optimal solutions for stakeholders? To analyze and answer these questions I combined work with Excel, SQL and Power BI to obtain satisfactory results and present data on an interactive dashboard.
+- I chose this topic because I was interested in how cooperation with influencers looks like in terms of advertising campaigns. What the process of selecting specific solutions looks like in terms of **Return on Investment**. Cooperating with influencers who have less followers can be more profitable than working with more recognizable individuals. What could I propose the most optimal solutions for stakeholders? To analyze and answer these questions I combined work with Excel, SQL and Power BI to obtain satisfactory results and present data on an interactive dashboard.
 
 ### [Analysis of the World Happiness Report 2024 (Python)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/World%20Happiness%20Report%202024%20(Python))
 
