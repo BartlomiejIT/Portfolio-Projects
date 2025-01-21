@@ -43,6 +43,6 @@ I leverage these tools to uncover patterns, extract meaningful insights, and dri
 
 - This time I focused on technical practice in data exploration, query creation, and performance optimization using SQL. It allowed me to develop advanced query-writing skills while progressing through from basic to advanced levels of complexity. The data derived from the queries were designed to be further use optionally for visualization with tools like Power BI or Tableau.
 
-![image](https://github.com/user-attachments/assets/6a042d7b-199a-450c-a8fa-0b84ce5582da)
+![image](https://github.com/user-attachments/assets/86a140e9-5916-410c-948a-f48eb592abb0)
 
 
