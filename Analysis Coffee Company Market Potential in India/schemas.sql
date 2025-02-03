@@ -17,15 +17,6 @@ CREATE TABLE customers
 	CONSTRAINT fk_city FOREIGN KEY (city_id) REFERENCES city(city_id)
 );
 
-
-CREATE TABLE products
-(
-	product_id	INT PRIMARY KEY,
-	product_name VARCHAR(35),	
-	Price float
-);
-
-
 CREATE TABLE sales
 (
 	sale_id	INT PRIMARY KEY,
