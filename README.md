@@ -3,26 +3,29 @@
 #### Hi, my name is Bartłomiej.
 
 I am a forthcoming Data Analyst and I love learn about how to things work also love physical exercises like running 🏃‍♂️ right after intellectual exercise 📚. For the past few years I worked as a chef where I learned how important is attention to details, analyzing situations and making quick informed decisions.
-Over time I realized that the world around us constantly generates data, and working with it has the power to shape the reality we live in. This inspired me to change my career path and start my journey into data analytics 😉.
+Over time I realized that the world around us constantly generates data, and working with it has the power to shape the reality we live in. This inspired me to change my career path and start my journey into data analytics.
 
 
-#### My skillset includes a diverse range of tools and technologies, such as:
+#### My skillset includes a diverse range of tools and technologies like:
 
-- 🐍 **Python** data analysis and automation
-- 🗄️ **SQL** querying, processing data
-- 📊 **Excel** preparation, cleanup, manipulation and visualization
-- 📈 **Power BI** for creating interactive and insightful dashboards
+- 🐍 **Python**: statistical analysis, work with large amount of datasets and data prcoessing automation  
+  
+- 🗄️ **SQL**: querying, optimiaztion, processing and analyze data
+  
+- 📊 **Excel**: preparation, formatting, cleanup, manipulation and data visualization
+  
+- 📈 **Power BI**: creating interactive and insightful dashboards
 
-I leverage these tools to uncover patterns, extract meaningful insights, and drive data-driven decision-making.
+I leverage these tools to uncover patterns, extract meaningful insights and drive data-driven decision-making.
 
 ## My Latest Projects:
 
-### [Medical Personal Cost in the U.S. (Excel)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20of%20Medical%20Personal%20Cost%20(Excel))
+### [Medical Personal Costs in the U.S. (Excel)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20of%20Medical%20Personal%20Cost%20(Excel))
 
 [![image](https://github.com/user-attachments/assets/25a36a30-ed39-4bcf-8503-fe99854ceb77)
 ](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20of%20Medical%20Personal%20Cost%20(Excel))
 
-- As a person who cares about health, I decided to check what is behind and influences the costs associated with using healthcare. Is there a specific age range in which the price increase is drastically high and what could be the reason for this? What solutions related to insurance prices could motivate customers to change their habits and take advantage of more favorable offers for them. To analyze this topic, I have prepared a Dashboard that can help understand the relationships between BMI Groups, Age, Smoking Status, Number of Children and Costs for Medical Services.
+- As a person who cares about health, I decided to check what is behind and influences the costs associated with using healthcare. I was curious if is there a specific age range in which the price increase is drastically high and what could be the reason for this? What solutions related to insurance prices could motivate customers to change their habits and take advantage of more favorable offers for them. To analyze this topic, I have prepared a Dashboard that can help understand the relationships between BMI Groups, Age, Smoking Status, Number of Children and Costs for Medical Services.
 
 ### [Analysis of Top Influencers Campaign (Excel-SQL-Power BI)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20Top%20Influencers%20Campaign%20(Excel%20-%20SQL%20-%20Power%20BI))
 
@@ -39,15 +42,8 @@ I leverage these tools to uncover patterns, extract meaningful insights, and dri
 
 ### [Analysis Coffee Company Market Potential in India (SQL-Power BI)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20Coffee%20Company%20Market%20Potential%20in%20India)
 
-[![image](https://github.com/user-attachments/assets/51172bef-959f-4a72-9d9b-5f02431037bb)
-](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20Coffee%20Company%20Market%20Potential%20in%20India)
+[![image](https://github.com/user-attachments/assets/82ca46b2-b32d-4afa-9cbf-cba6e4839f15)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20Coffee%20Company%20Market%20Potential%20in%20India)
 
-### [Analytical Practice and Optimization Queries Spotify (SQL)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analytical%20Practice%20and%20Optimization%20Queries%20Spotify%20Dataset%20(SQL))
-
-[![image](https://github.com/user-attachments/assets/05e61662-2d74-41a5-bc1b-d33d0744627d)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analytical%20Practice%20and%20Optimization%20Queries%20Spotify%20Dataset%20(SQL))
-
-- This time I focused on technical practice in data exploration, query creation, and performance optimization using SQL. It allowed me to develop advanced query-writing skills while progressing through from basic to advanced levels of complexity. The data derived from the queries were designed to be further use optionally for visualization with tools like Power BI or Tableau.
-
-![image](https://github.com/user-attachments/assets/86a140e9-5916-410c-948a-f48eb592abb0)
+- As a one of the coffee consumer, I decided delve into the topic about a year-old company developing in the Indian coffee market. Especially the issue of opening new points of coffee shops through analysis and selection of the most optimal locations based on sales profits, rental costs, population of potential consumers and the current number of customers. To analyze and obtain the 3 best options to open new sales points, I used tools such as PostgreSQL with extensive database queries and Power BI for interactive visualization.
 
 
