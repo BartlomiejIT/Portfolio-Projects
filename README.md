@@ -10,13 +10,13 @@ Over time I realized that the world around us constantly generates data, and wor
 
 - 🐍 **Python**: statistical analysis, work with large amount of datasets and data prcoessing automation  
   
-- 🗄️ **SQL**: querying, optimiaztion, processing and analyze data
+- 🗄️ **SQL**: querying, optimization, processing and analyze data
   
 - 📊 **Excel**: preparation, formatting, cleanup, manipulation and data visualization
   
 - 📈 **Power BI**: creating interactive and insightful dashboards
 
-I leverage these tools to uncover patterns, extract meaningful insights and drive data-driven decision-making.
+I use these tools to discover patterns, draw valuable insights, and support data-driven decisions.
 
 ## My Latest Projects:
 
@@ -27,23 +27,23 @@ I leverage these tools to uncover patterns, extract meaningful insights and driv
 
 - As a person who cares about health, I decided to check what is behind and influences the costs associated with using healthcare. I was curious if is there a specific age range in which the price increase is drastically high and what could be the reason for this? What solutions related to insurance prices could motivate customers to change their habits and take advantage of more favorable offers for them. To analyze this topic, I have prepared a Dashboard that can help understand the relationships between BMI Groups, Age, Smoking Status, Number of Children and Costs for Medical Services.
 
-### [Analysis of Top Influencers Campaign (Excel-SQL-Power BI)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20Top%20Influencers%20Campaign%20(Excel%20-%20SQL%20-%20Power%20BI))
+### [Analysis of Top Influencers Campaign (Excel-SQL-Power BI) end-to-end](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20Top%20Influencers%20Campaign%20(Excel%20-%20SQL%20-%20Power%20BI))
 
 [![image](https://github.com/user-attachments/assets/7bda1393-069c-4411-a410-fe771a265392)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20Top%20Influencers%20Campaign%20(Excel%20-%20SQL%20-%20Power%20BI))
 
 - I chose this topic because I was interested in how cooperation with influencers looks like in terms of advertising campaigns. What the process of selecting specific solutions looks like in terms of **Return on Investment**. Cooperating with influencers who have less followers can be more profitable than working with more recognizable individuals. What could I propose the most optimal solutions for stakeholders? To analyze and answer these questions I combined work with Excel, SQL and Power BI to obtain satisfactory results and present data on an interactive dashboard.
 
-### [Analysis of the World Happiness Report 2024 (Python)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/World%20Happiness%20Report%202024%20(Python))
+### [Analysis of the World Happiness Report 2024 (Python) end-to-end](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/World%20Happiness%20Report%202024%20(Python))
 
 [![image](https://github.com/user-attachments/assets/7310e5b4-56ea-44df-8223-b7cfa6e0857c)
 ](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/World%20Happiness%20Report%202024%20(Python))
 
-- The project was born out of my curiosity about how and what makes certain parts of the world more happy than others. Are there other factors besides economics that contribute to this? Which countries have seen the biggest increases and decreases in happiness over time? Working with Python and libraries like matplotlib and geopandas has broadened my visualization skills and has been a practical exercise in using the pandas library.
+- The project was born out of my curiosity about how and what makes certain parts of the world more happy than others. Are there other factors besides economics that contribute to this? Which countries have seen the biggest increases and decreases in happiness over time? Working with Python and libraries like Matplotlib and Geopandas has broadened my visualization skills and has been a practical exercise in using the Pandas library.
 
 ### [Analysis Coffee Company Market Potential in India (SQL-Power BI)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20Coffee%20Company%20Market%20Potential%20in%20India)
 
 [![image](https://github.com/user-attachments/assets/82ca46b2-b32d-4afa-9cbf-cba6e4839f15)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20Coffee%20Company%20Market%20Potential%20in%20India)
 
-- As a one of the coffee consumer, I decided delve into the topic about a year-old company developing in the Indian coffee market. Especially the issue of opening new points of coffee shops through analysis and selection of the most optimal locations based on sales profits, rental costs, population of potential consumers and the current number of customers. To analyze and obtain the 3 best options to open new sales points, I used tools such as PostgreSQL with extensive database queries and Power BI for interactive visualization.
+- As a one of the coffee consumer, I decided delve into the topic about a year-old company developing in the Indian coffee market. Especially the issue of opening new points of coffee shops through analysis and selection of the most optimal locations based on sales profits, rental costs, population of potential consumers and the current number of customers. To analyze and obtain the three best options to open new sales points, I used tools such as PostgreSQL with extensive database queries and Power BI for interactive visualization.
 
 
