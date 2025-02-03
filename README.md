@@ -37,6 +37,11 @@ I leverage these tools to uncover patterns, extract meaningful insights, and dri
 
 - The project was born out of my curiosity about how and what makes certain parts of the world more happy than others. Are there other factors besides economics that contribute to this? Which countries have seen the biggest increases and decreases in happiness over time? Working with Python and libraries like matplotlib and geopandas has broadened my visualization skills and has been a practical exercise in using the pandas library.
 
+### [Analysis Coffee Company Market Potential in India (SQL-Power BI)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20Coffee%20Company%20Market%20Potential%20in%20India)
+
+[![image](https://github.com/user-attachments/assets/51172bef-959f-4a72-9d9b-5f02431037bb)
+](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20Coffee%20Company%20Market%20Potential%20in%20India)
+
 ### [Analytical Practice and Optimization Queries Spotify (SQL)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analytical%20Practice%20and%20Optimization%20Queries%20Spotify%20Dataset%20(SQL))
 
 [![image](https://github.com/user-attachments/assets/05e61662-2d74-41a5-bc1b-d33d0744627d)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analytical%20Practice%20and%20Optimization%20Queries%20Spotify%20Dataset%20(SQL))
