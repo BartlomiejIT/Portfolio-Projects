@@ -22,8 +22,7 @@ I use these tools to discover patterns, draw valuable insights, and support data
 
 ### [Medical Personal Costs in the U.S. (Excel)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20of%20Medical%20Personal%20Cost%20(Excel))
 
-[![image](https://github.com/user-attachments/assets/25a36a30-ed39-4bcf-8503-fe99854ceb77)
-](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20of%20Medical%20Personal%20Cost%20(Excel))
+[![image](https://github.com/user-attachments/assets/c7d0645e-24bc-445f-bbea-7f7ed4c7a25a)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20of%20Medical%20Personal%20Cost%20(Excel))
 
 - As a person who cares about health, I decided to check what is behind and influences the costs associated with using healthcare. I was curious if is there a specific age range in which the price increase is drastically high and what could be the reason for this? What solutions related to insurance prices could motivate customers to change their habits and take advantage of more favorable offers for them. To analyze this topic, I have prepared a Dashboard that can help understand the relationships between BMI Groups, Age, Smoking Status, Number of Children and Costs for Medical Services.
 
@@ -31,7 +30,7 @@ I use these tools to discover patterns, draw valuable insights, and support data
 
 [![image](https://github.com/user-attachments/assets/7bda1393-069c-4411-a410-fe771a265392)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20Top%20Influencers%20Campaign%20(Excel%20-%20SQL%20-%20Power%20BI))
 
-- I chose this topic because I was interested in how cooperation with influencers looks like in terms of advertising campaigns. What the process of selecting specific solutions looks like in terms of **Return on Investment**. Cooperating with influencers who have less followers can be more profitable than working with more recognizable individuals. What could I propose the most optimal solutions for stakeholders? To analyze and answer these questions I combined work with Excel, SQL and Power BI to obtain satisfactory results and present data on an interactive dashboard.
+- This time I checked how cooperation with influencers looks like in terms of advertising campaigns. What the process of selecting specific solutions looks like in terms of **Return on Investment**. Cooperating with influencers who have less followers can be more profitable than working with more recognizable individuals. What could I propose the most optimal solutions for stakeholders? To analyze and answer these questions I combined work with Excel, SQL and Power BI to obtain satisfactory results and present data on an interactive dashboard.
 
 ### [Analysis of the World Happiness Report 2024 (Python) end-to-end](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/World%20Happiness%20Report%202024%20(Python))
 
@@ -44,6 +43,6 @@ I use these tools to discover patterns, draw valuable insights, and support data
 
 [![image](https://github.com/user-attachments/assets/82ca46b2-b32d-4afa-9cbf-cba6e4839f15)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20Coffee%20Company%20Market%20Potential%20in%20India)
 
-- As a one of the coffee consumer, I decided delve into the topic about a year-old company developing in the Indian coffee market. Especially the issue of opening new points of coffee shops through analysis and selection of the most optimal locations based on sales profits, rental costs, population of potential consumers and the current number of customers. To analyze and obtain the three best options to open new sales points, I used tools such as PostgreSQL with extensive database queries and Power BI for interactive visualization.
+- As a one of the coffee consumer, I decided delve into the topic about a year-old company developing in the Indian coffee market. Especially the issue of opening new points of coffee shops through analysis and selection of the most optimal locations based on sales profits, rental costs, population of potential consumers and the current number of customers. To analyze and obtain the three best options to open new sales points, I used tools such as PostgreSQL with extensive database queries and Power BI to visualize my results.
 
 
