@@ -22,7 +22,8 @@ I use these tools to discover patterns, draw valuable insights, and support data
 
 ### [Medical Personal Costs in the U.S. (Excel)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20of%20Medical%20Personal%20Cost%20(Excel))
 
-[![image](https://github.com/user-attachments/assets/c7d0645e-24bc-445f-bbea-7f7ed4c7a25a)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20of%20Medical%20Personal%20Cost%20(Excel))
+[![image](https://github.com/user-attachments/assets/d9e858e4-4cb3-4297-b8d8-0aa465cc9c53)
+](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20of%20Medical%20Personal%20Cost%20(Excel))
 
 - As a person who cares about health, I decided to check what is behind and influences the costs associated with using healthcare. I was curious if is there a specific age range in which the price increase is drastically high and what could be the reason for this? What solutions related to insurance prices could motivate customers to change their habits and take advantage of more favorable offers for them. To analyze this topic, I have prepared a Dashboard that can help understand the relationships between BMI Groups, Age, Smoking Status, Number of Children and Costs for Medical Services.
 
