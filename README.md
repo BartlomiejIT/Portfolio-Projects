@@ -22,7 +22,7 @@ I use these tools to discover patterns, draw valuable insights, and support data
 
 ## My Latest Projects:
 
-### [Medical Personal Costs in the U.S. (Excel)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20of%20Medical%20Personal%20Cost%20(Excel))
+### [Medical Personal Costs in the U.S. (Excel) end-to-end](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20of%20Medical%20Personal%20Cost%20(Excel))
 
 [![image](https://github.com/user-attachments/assets/d9e858e4-4cb3-4297-b8d8-0aa465cc9c53)
 ](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20of%20Medical%20Personal%20Cost%20(Excel))
