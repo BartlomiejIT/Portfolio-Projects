@@ -42,6 +42,12 @@ I use these tools to discover patterns, draw valuable insights, and support data
 
 - The project was born out of my curiosity about how and what makes certain parts of the world more happy than others. Are there other factors besides economics that contribute to this? Which countries have seen the biggest increases and decreases in happiness over time? Working with Python and libraries like Matplotlib and Geopandas has broadened my visualization skills and has been a practical exercise in using the Pandas library.
 
+### [Data Cleaner Application (Python)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Data%20Cleaner%20Application%20(Python))
+
+[![image](https://github.com/user-attachments/assets/bc9f66d0-d198-42d3-b5c2-32c6569b7539)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Data%20Cleaner%20Application%20(Python))
+
+- I have prepared very useful an application that cleans data by handling duplicates, missing values ​​and then returns a cleaned data set. The application also keeps a backup of duplicate rows, replaces missing values ​​with a calculated average value and removes missing non-numeric values. This tool is dedicated for data analysts and data scientists, which will facilitate and speed up our process of working with data.
+
 ### [Analysis Coffee Company Market Potential in India (SQL-Power BI)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20Coffee%20Company%20Market%20Potential%20in%20India)
 
 [![image](https://github.com/user-attachments/assets/82ca46b2-b32d-4afa-9cbf-cba6e4839f15)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20Coffee%20Company%20Market%20Potential%20in%20India)
