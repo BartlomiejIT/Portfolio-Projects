@@ -46,7 +46,7 @@ I use these tools to discover patterns, draw valuable insights, and support data
 
 [![image](https://github.com/user-attachments/assets/bc9f66d0-d198-42d3-b5c2-32c6569b7539)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Data%20Cleaner%20Application%20(Python))
 
-- I have prepared very useful an application that cleans data by handling duplicates, missing values ​​and then returns a cleaned data set. The application also keeps a backup of duplicate rows, replaces missing values ​​with a calculated average value and removes missing non-numeric values. This tool is dedicated for data analysts and data scientists, which will facilitate and speed up our process of working with data.
+- I have prepared very useful application that cleans data by handling duplicates, missing values ​​and then returns our cleaned data set. The application also keeps a backup of duplicate rows, replaces missing values ​​with a calculated average (mean) values and removes missing non-numeric values. This tool is dedicated for data analysts and data scientists, which will make easier and speed up our process of working with data.
 
 ### [Analysis Coffee Company Market Potential in India (SQL-Power BI)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20Coffee%20Company%20Market%20Potential%20in%20India)
 
