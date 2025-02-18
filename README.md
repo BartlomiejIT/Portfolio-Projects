@@ -35,6 +35,12 @@ I use these tools to discover patterns, draw valuable insights, and support data
 
 - This time I checked how cooperation with influencers looks like in terms of advertising campaigns. What the process of selecting specific solutions looks like in terms of **Return on Investment**. Cooperating with influencers who have less followers can be more profitable than working with more recognizable individuals. What could I propose the most optimal solutions for stakeholders? To analyze and answer these questions I combined work with Excel, SQL and Power BI to obtain satisfactory results and present data on an interactive dashboard.
 
+### [Analysis Coffee Company Market Potential in India (SQL-Power BI)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20Coffee%20Company%20Market%20Potential%20in%20India)
+
+[![image](https://github.com/user-attachments/assets/82ca46b2-b32d-4afa-9cbf-cba6e4839f15)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20Coffee%20Company%20Market%20Potential%20in%20India)
+
+- As a one of the coffee consumer, I decided delve into the topic about a year-old company developing in the Indian coffee market. Especially the issue of opening new points of coffee shops through analysis and selection of the most optimal locations based on sales profits, rental costs, population of potential consumers and the current number of customers. To analyze and obtain the three best options to open new sales points, I used tools such as PostgreSQL with extensive database queries and Power BI to visualize my results.
+
 ### [Analysis of the World Happiness Report 2024 (Python) end-to-end](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/World%20Happiness%20Report%202024%20(Python))
 
 [![image](https://github.com/user-attachments/assets/7310e5b4-56ea-44df-8223-b7cfa6e0857c)
@@ -47,11 +53,3 @@ I use these tools to discover patterns, draw valuable insights, and support data
 [![image](https://github.com/user-attachments/assets/bc9f66d0-d198-42d3-b5c2-32c6569b7539)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Data%20Cleaner%20Application%20(Python))
 
 - I have prepared very useful application that cleans data with 'csv' and 'xlsx' format by handling duplicates, missing values ​​and then returns our cleaned data set. The application also keeps a backup of duplicate rows, replaces missing values ​​with a calculated average (mean) values and removes missing non-numeric values. This tool is dedicated for data analysts and data scientists, which will make easier and speed up our process of working with data.
-
-### [Analysis Coffee Company Market Potential in India (SQL-Power BI)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20Coffee%20Company%20Market%20Potential%20in%20India)
-
-[![image](https://github.com/user-attachments/assets/82ca46b2-b32d-4afa-9cbf-cba6e4839f15)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20Coffee%20Company%20Market%20Potential%20in%20India)
-
-- As a one of the coffee consumer, I decided delve into the topic about a year-old company developing in the Indian coffee market. Especially the issue of opening new points of coffee shops through analysis and selection of the most optimal locations based on sales profits, rental costs, population of potential consumers and the current number of customers. To analyze and obtain the three best options to open new sales points, I used tools such as PostgreSQL with extensive database queries and Power BI to visualize my results.
-
-
