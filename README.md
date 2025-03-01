@@ -14,7 +14,7 @@ Over time I realized that the world around us constantly generates data, and wor
   
 - 🗄️ **SQL**: querying, optimization, processing and analyze data
   
-- 📊 **Excel**: preparation, formatting, cleanup, manipulation and data visualization
+- 📊 **Excel**: preparation, formatting, cleanup, manipulation and data visualization, ETL / Power Query
   
 - 📈 **Power BI**: creating interactive and insightful dashboards
 
