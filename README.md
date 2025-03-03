@@ -39,7 +39,7 @@ I use these tools to discover patterns, draw valuable insights, and support data
 
 [![image](https://github.com/user-attachments/assets/82ca46b2-b32d-4afa-9cbf-cba6e4839f15)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20Coffee%20Company%20Market%20Potential%20in%20India)
 
-- As a one of the coffee consumer, I decided delve into the topic about a year-old company developing in the Indian coffee market. Especially the issue of opening new points of coffee shops through analysis and selection of the most optimal locations based on sales profits, rental costs, population of potential consumers and the current number of customers. To analyze and obtain the three best options to open new sales points, I used tools such as PostgreSQL with extensive database queries and Power BI to visualize my results.
+- As a one of the coffee consumer, I delved into the topic about a year-old company developing in the Indian coffee market. Especially the issue of opening new points of coffee shops through analysis and selection of the most optimal locations based on sales profits, rental costs, population of potential consumers and the current number of customers. To analyze and obtain the three best options to open new sales points, I used tools such as PostgreSQL with extensive database queries and Power BI to visualize my results.
 
 ### [Analysis of the World Happiness Report 2024 (Python) end-to-end](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/World%20Happiness%20Report%202024%20(Python))
 
