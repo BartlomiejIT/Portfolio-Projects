@@ -10,7 +10,7 @@ Over time I realized that the world around us constantly generates data, and wor
 
 #### My skillset includes a diverse range of tools and technologies like:
 
-- 🐍 **Python**: statistical analysis, work with large amount of datasets and data prcoessing automation  
+- 🐍 **Python**: statistical analysis, work with large amount of datasets and data processing automation
   
 - 🗄️ **SQL**: querying, optimization, processing and analyze data
   
