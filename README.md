@@ -29,9 +29,10 @@ I use these tools to discover patterns, draw valuable insights, and support data
 
 - As a person who cares about health, I decided to check what is behind and influences the costs associated with using healthcare. I was curious if is there a specific age range in which the price increase is drastically high and what could be the reason for this? What solutions related to insurance prices could motivate customers to change their habits and take advantage of more favorable offers for them. To analyze this topic, I have prepared a Dashboard that can help understand the relationships between BMI Groups, Age, Smoking Status, Number of Children and Costs for Medical Services.
 
-### [Analysis of Top Influencers Campaign (Excel-SQL-Power BI) end-to-end](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20Top%20Influencers%20Campaign%20(Excel%20-%20SQL%20-%20Power%20BI))
+### [Analysis of Top Fashion Industry Influencers Campaign (Excel-SQL-Power BI) end-to-end](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20Top%20Influencers%20Campaign%20(Excel%20-%20SQL%20-%20Power%20BI))
 
-[![image](https://github.com/user-attachments/assets/7bda1393-069c-4411-a410-fe771a265392)](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20Top%20Influencers%20Campaign%20(Excel%20-%20SQL%20-%20Power%20BI))
+[![image](https://github.com/user-attachments/assets/c49287d7-9f8e-445a-8bcb-4726fdf8fd5e)
+](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20Top%20Influencers%20Campaign%20(Excel%20-%20SQL%20-%20Power%20BI))
 
 - This time I checked how cooperation with influencers looks like in terms of advertising campaigns. What the process of selecting specific solutions looks like in terms of **Return on Investment**. Cooperating with influencers who have less followers can be more profitable than working with more recognizable individuals. What could I propose the most optimal solutions for stakeholders? To analyze and answer these questions I combined work with Excel, SQL and Power BI to obtain satisfactory results and present data on an interactive dashboard.
 
