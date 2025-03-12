@@ -4,7 +4,7 @@
 
 #### Hi, my name is Bartłomiej Podstawek.
 
-I am a Data Analyst and I love learn about how to things work also love physical exercises like running 🏃‍♂️ right after intellectual exercise 📚. For the past few years I worked as a chef where I learned how important is attention to details, analyzing situations and making quick informed decisions.
+I am a Data Specialist and I love learn about how to things work also love physical exercises like running 🏃‍♂️ right after intellectual exercise 📚. For the past few years I worked as a chef where I learned how important is attention to details, analyzing situations and making quick informed decisions.
 Over time I realized that the world around us constantly generates data, and working with it has the power to shape the reality we live in. This inspired me to change my career path and start my journey into data analytics.
 
 
