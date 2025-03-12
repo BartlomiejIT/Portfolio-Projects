@@ -10,15 +10,15 @@ Over time I realized that the world around us constantly generates data, and wor
 
 #### My skillset includes a diverse range of tools and technologies like:
 
-- 🐍 **Python**: Statistical analysis, work with large amount of datasets and automation of data validation.
+- 🐍 **Python**: Statistical analysis, Work with large amount of datasets and Automation of Data Validation.
   
-- 🗄️ **SQL**: Writing queries, Optimization queries, processing data.
+- 🗄️ **SQL**: Writing Queries, Optimization Queries, Processing Data.
   
 - 📊 **Excel**: Calculate, Pivot tables, Extract-Transform-Load with Power Query, Macros.
   
-- 📈 **Power BI**: Creating interactive dashboards, Modeling data.
+- 📈 **Power BI**: Creating Interactive Dashboards, Modeling data.
 
-I use these tools to discover patterns, draw valuable insights, and support business decisions.
+I use these tools to identify trends, planning, gain sales, reduce costs and support business decisions.
 
 ## My Latest Projects:
 
