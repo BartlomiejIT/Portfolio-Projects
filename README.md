@@ -10,7 +10,7 @@ Over time I realized that the world around us constantly generates data, and wor
 
 #### My skillset includes a diverse range of tools and technologies like:
 
-- 🐍 **Python**: Statistical analysis, Work with large amount of datasets and Automation of Data Validation.
+- 🐍 **Python**: EDA, Statistical analysis, Work with large amount of datasets and Automation of Data Validation.
   
 - 🗄️ **SQL**: Writing Queries, Optimization Queries, Processing Data.
   
@@ -20,7 +20,7 @@ Over time I realized that the world around us constantly generates data, and wor
 
 I use these tools to identify trends, planning, gain sales, reduce costs and support business decisions.
 
-## My Latest Projects:
+## Below You will find my latest Projects:
 
 ### [Medical Personal Costs in the U.S. (Excel) end-to-end](https://github.com/BartlomiejIT/Portfolio-Projects/tree/main/Analysis%20of%20Medical%20Personal%20Cost%20(Excel))
 
